@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"https://api.bilibili.com/x/web-interface/view?bvid=BV1TGdrYGENB\" -H \"User-Agent: Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/120.0 Safari/537.36\" -H \"Referer: https://www.bilibili.com\")",
+      "Bash(curl -s \"https://api.bilibili.com/x/web-interface/view?bvid=BV1TGdrYGENB\" -H \"User-Agent: Mozilla/5.0\" -H \"Referer: https://www.bilibili.com\")",
+      "Bash(python -c ' *)",
+      "Bash(code --list-extensions)",
+      "Bash(curl -s https://api.bilibili.com/x/web-interface/view?bvid=__TRACKED_VAR__ -H 'User-Agent: Mozilla/5.0' -H 'Referer: https://www.bilibili.com')",
+      "Read(//c/Users/87018/AppData/Roaming/Code/User/**)",
+      "WebFetch(domain:zh-hans.react.dev)",
+      "WebFetch(domain:dev.to)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/reactjs/react.dev/main/src/content/reference/react-compiler.md\" -H \"User-Agent: Mozilla/5.0\")",
+      "Bash(curl -sL \"https://api.github.com/repos/reactjs/react.dev/contents/src/content/reference\" -H \"User-Agent: Mozilla/5.0\")",
+      "Bash(curl -sL \"https://api.github.com/repos/reactjs/react.dev/contents/src/content/reference/react-compiler\" -H \"User-Agent: Mozilla/5.0\")",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/reactjs/react.dev/main/src/content/reference/react-compiler/configuration.md\" -H \"User-Agent: Mozilla/5.0\")",
+      "Bash(curl -sL \"https://api.github.com/search/code?q=reactCompilerPreset+repo:reactjs/react.dev\" -H \"User-Agent: Mozilla/5.0\")",
+      "Bash(curl -sL \"https://registry.npmjs.org/babel-plugin-react-compiler\" -H \"User-Agent: Mozilla/5.0\")",
+      "Bash(curl -sL \"https://registry.npmjs.org/babel-plugin-react-compiler\" -H \"User-Agent: Mozilla/5.0\" -o /tmp/rc.json)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/facebook/react/main/compiler/packages/babel-plugin-react-compiler/README.md\" -H \"User-Agent: Mozilla/5.0\")",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/reactjs/react.dev/main/src/content/learn/react-compiler.md\" -H \"User-Agent: Mozilla/5.0\")",
+      "Bash(curl -sL \"https://api.github.com/repos/reactjs/react.dev/contents/src/content/learn\" -H \"User-Agent: Mozilla/5.0\")",
+      "Bash(curl -sL \"https://api.github.com/repos/reactjs/react.dev/contents/src/content/learn/react-compiler\" -H \"User-Agent: Mozilla/5.0\")",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/reactjs/react.dev/main/src/content/learn/react-compiler/index.md\" -H \"User-Agent: Mozilla/5.0\")",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/reactjs/react.dev/main/src/content/learn/react-compiler/installation.md\" -H \"User-Agent: Mozilla/5.0\")",
+      "Bash(curl -s \"https://api.bilibili.com/x/web-interface/view?bvid=BV1xukkBvEVb\" -H \"User-Agent: Mozilla/5.0\" -H \"Referer: https://www.bilibili.com\")",
+      "Bash(curl -s \"https://api.bilibili.com/x/web-interface/view?bvid=BV1ZB4y1Z7o8\" -H \"User-Agent: Mozilla/5.0\" -H \"Referer: https://www.bilibili.com\")"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\87018\\AppData\\Roaming\\Code\\User"
+    ]
+  }
+}
