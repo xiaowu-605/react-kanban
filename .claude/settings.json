@@ -23,7 +23,9 @@
       "Bash(curl -sL \"https://raw.githubusercontent.com/reactjs/react.dev/main/src/content/learn/react-compiler/index.md\" -H \"User-Agent: Mozilla/5.0\")",
       "Bash(curl -sL \"https://raw.githubusercontent.com/reactjs/react.dev/main/src/content/learn/react-compiler/installation.md\" -H \"User-Agent: Mozilla/5.0\")",
       "Bash(curl -s \"https://api.bilibili.com/x/web-interface/view?bvid=BV1xukkBvEVb\" -H \"User-Agent: Mozilla/5.0\" -H \"Referer: https://www.bilibili.com\")",
-      "Bash(curl -s \"https://api.bilibili.com/x/web-interface/view?bvid=BV1ZB4y1Z7o8\" -H \"User-Agent: Mozilla/5.0\" -H \"Referer: https://www.bilibili.com\")"
+      "Bash(curl -s \"https://api.bilibili.com/x/web-interface/view?bvid=BV1ZB4y1Z7o8\" -H \"User-Agent: Mozilla/5.0\" -H \"Referer: https://www.bilibili.com\")",
+      "Bash(gh search *)",
+      "Bash(gh api *)"
     ],
     "additionalDirectories": [
       "C:\\Users\\87018\\AppData\\Roaming\\Code\\User"
